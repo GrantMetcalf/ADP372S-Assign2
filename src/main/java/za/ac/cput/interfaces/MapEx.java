@@ -5,5 +5,5 @@ Description: An example using the map interface
 
 package za.ac.cput.interfaces;
 
-public class Map {
+public class MapEx {
 }
