@@ -1,3 +1,8 @@
+/*
+Author: Grant Metcalf - 217222943
+Description: Testing the set interface
+ */
+
 package za.ac.cput.interfaces;
 
 import org.junit.jupiter.api.BeforeEach;
